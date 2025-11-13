@@ -1,0 +1,7 @@
+langchain
+langchain-community
+ollama
+pandas
+openpyxl
+PyGithub
+llama-index
