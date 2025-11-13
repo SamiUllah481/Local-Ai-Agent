@@ -1,0 +1,6 @@
+OrderID,Product,Price,Status
+101,Laptop,1200,Shipped
+102,Monitor,300,Pending
+103,Mouse,25,Shipped
+104,Keyboard,75,Pending
+105,Webcam,50,Delivered
